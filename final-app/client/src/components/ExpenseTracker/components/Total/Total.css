@@ -1,0 +1,24 @@
+.expense-item.total{
+  padding: 0.25rem 1rem 0.5rem 1rem;
+  background-color: #4b4b4b;
+  margin: 1rem auto;
+  width: auto;
+  max-width: 100%;
+  border-color: white;
+  border: 1rem;
+  
+}
+.expense-item__description.total{
+  border-color: white;
+  border: 1rem;
+
+}
+ @media (min-width:768px) {
+  .diff-card{
+    width:auto;
+  }
+  
+}
+.expense-item.h2.total{
+  font-size: 2rem;
+}

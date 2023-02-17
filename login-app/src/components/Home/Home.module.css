@@ -1,0 +1,10 @@
+.home {
+  width: 90%;
+  max-width: 40rem;
+  padding: 3rem;
+  margin: 20rem auto;
+  text-align: center;
+  color: white;
+  background-color: rgba(50, 50, 50, 0.747);
+  font-family:Arial, Helvetica, sans-serif;
+}

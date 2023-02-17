@@ -1,0 +1,22 @@
+.login {
+  width: 90%;
+  max-width: 40rem;
+  margin: 15rem auto;
+  padding: 2rem;
+  background-color: rgba(59, 59, 59, 0.795);
+  font-size: bold;
+}
+
+.actions {
+  text-align: center;
+  
+}
+body{
+  background-color: rgba(203, 203, 203, 0.879);
+}
+
+.btn{
+  font-size: bold;
+  margin-top: 1rem;
+}
+

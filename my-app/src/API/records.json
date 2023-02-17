@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Food",
+    "amount": 94.12,
+    "date": "07/14/2022"
+  },
+  {
+    "id": 2,
+    "title": "TV",
+    "amount": 799.49,
+    "date": "02/12/2021"
+  },
+  {
+    "id": 3,
+    "title": "Car Insurance",
+    "amount": 294.67,
+    "date": "03/28/2022"
+  },
+  {
+    "id": 4,
+    "title": "Wooden Desk",
+    "amount": 450,
+    "date": "05/12/2021"
+  }
+]
